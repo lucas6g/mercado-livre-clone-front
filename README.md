@@ -19,7 +19,7 @@ Um Clone Com as Principais Funcionalidades do maior e-commerce da America Latina
 
 <p>Com a versão web, efetuar adicionar produtos ao seu carrinho e listar suas compras recentes, alem de efetuar pagamento de uma compra.</p>
 
-<p>Para testar a funcionalidade de pagamento basta fornecer um cartao com o numero 4242 4242 4242 4242 um CVC qualquer e uma data e uma  valida.</p>
+<p>Para testar a funcionalidade de pagamento basta fornecer um cartao com o numero 4242 4242 4242 4242 um CVC qualquer e uma data  valida.</p>
 
 <p>Este é o repositório da versão web do projeto.</p>
 <ul>
