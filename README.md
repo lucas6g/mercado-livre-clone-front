@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" align="center" src="https://camo.githubusercontent.com/16835b1a5f23e90f29511dda2b27f599216ff2db217e2ae9bda1906b6ae2fc02/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4158704f706242507438464a43444e6a79524f6878412e706e67">
+    <img width="300" align="center" src="https://user-images.githubusercontent.com/54814274/140586879-19084ed6-8110-47ab-a506-f4a0154b520d.png">
 </p>
 
 <h1 align="center">
@@ -34,14 +34,17 @@ e para barbeiros, permite gerenciar os horários marcados.</p>
 ## :computer: Tecnologias
 
 - [React.js](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org)
 - [Typescript](https://www.typescriptlang.org/)
 - [ESLint-Airbnb](https://eslint.org/), [Prettier](https://prettier.io/) e [EditorConfig](https://editorconfig.org/)
 - [Axios](https://github.com/axios/axios)
 - [React Icons](https://react-icons.github.io/react-icons/)
-- 
 - [Yup](https://github.com/jquense/yup)
-- [Jest](https://jestjs.io/)
-- [Uuidv4](https://github.com/thenativeweb/uuidv4)
+- [Nookies](https://www.npmjs.com/package/nookies?activeTab=readme)
+- [React-Lottie](https://www.npmjs.com/package/react-lottie)
+- [Styled-Components](styled-components)
+
+
 
 ## :books: Guia de instalação e execução
 
@@ -59,4 +62,4 @@ e para barbeiros, permite gerenciar os horários marcados.</p>
 - Clone o repositório `git clone https://github.com/lucas6g/gobarber-web`
 - Vá até o diretório `cd gobarber-web`
 - Execute `yarn` para instalar as dependências
-- Execute `yarn start` para rodar o servidor
+- Execute `yarn start` para rodar o servidor!
