@@ -23,7 +23,7 @@ Um Clone Com as Principais Funcionalidades do maior e-commerce da America Latina
 
 <p>Este é o repositório da versão web do projeto.</p>
 <ul>
-  <li>Link para a versão em staging da aplicação, <a href="https://mercado-livre-clone-opled0og1-lucastrabalho1533-gmailcom.vercel.app">clique aqui</a>.</li>
+  <li>Link para a versão em staging da aplicação, <a href="https://mercado-livre-clone-frontend.netlify.app">clique aqui</a>.</li>
   <li>Para a api REST, <a href="https://github.com/lucas6g/mercado-livre-clone-backend">clique aqui</a>.</li>
 </ul>
 
